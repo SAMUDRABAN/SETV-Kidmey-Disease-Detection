@@ -1,0 +1,10 @@
+timm
+streamlit  
+pillow  
+numpy
+keras
+matplotlib
+tensorflow
+torch
+torchvision
+os
